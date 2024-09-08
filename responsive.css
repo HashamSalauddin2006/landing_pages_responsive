@@ -1,0 +1,27 @@
+@media (max-width:571px) {
+    .nav_icon{
+        display: block;
+        font-size: 33px;
+    }
+    .nav_link{
+        display: none;
+    }
+    .main_section{
+        display: flex;
+        flex-direction: column;
+    }
+    .text_devkit{
+        display: inline ;    
+    }
+   .images img{
+    width: 136%;
+    height:266px;
+    margin-top: -109px;
+
+   }
+   .body_text{
+    margin:9rem 3rem;
+    color: var(--text-content);
+
+    
+}
